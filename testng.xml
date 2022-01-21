@@ -7,6 +7,9 @@
             <class name="com.lemon.day06_19.test.LoginTest"/>
             <class name="com.lemon.day06_19.test.ProductSearchTest"/>
             <class name="com.lemon.day06_19.test.RegisterTest"/>
+            <class name="com.lemon.day06_19.test.MockTest"/>
+            <class name="com.lemon.day06_19.test.PlaceOrderTest"/>
+            <class name="com.lemon.day06_19.test.EncryptTest"/>
         </classes>
     </test>
 </suite>
