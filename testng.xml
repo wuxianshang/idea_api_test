@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="测试套件" >
+    <test name="测试">
+        <classes>
+            <class name="com.lemon.day06_19.test.ShopCartTest"/>
+            <class name="com.lemon.day06_19.test.LoginTest"/>
+            <class name="com.lemon.day06_19.test.ProductSearchTest"/>
+            <class name="com.lemon.day06_19.test.RegisterTest"/>
+        </classes>
+    </test>
+</suite>
